@@ -1,3 +1,3 @@
-# font-increse-and-decrese
+# font-increase-and-decrease
 a javascript code that increase and decrease fonts sizes 
-## the code increase sont sizes and decrease it also ,it just fun and i hope on building more funtional projects
+## the code increase font sizes and decrease it, also ,it's just fun and i hope on building more funtional projects
